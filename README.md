@@ -6,6 +6,8 @@
 
 🌟 Några av mina projekt inkluderar:
 
-FontAI: En React-app för att hantera och visualisera data från IoT-enheter. Analyse: Ett Python-baserat verktyg för att automatisera uppgifter inom dataanalys. 📫 Låt oss skapa en connection! Jag är alltid öppen för samarbeten och diskussioner. Skicka gärna ett meddelande eller utforska mina repos!
+Webbportaler
+Discordbottar
+Databaser
 
 Tack för att du kikar förbi! 🌟
